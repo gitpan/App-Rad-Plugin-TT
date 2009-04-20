@@ -162,9 +162,10 @@ would by default look for something called C<< <rootdir>/mycmd >>. If you set C<
 L<App::Rad>, L<Template>
 
 
-=head1 AUTHOR
+=head1 AUTHORS
 
-Fernando Correa de Oliveira (FCO)
+Fernando Correa de Oliveira, <fco at cpan.org>
+Breno G. de Oliveira, <garu at cpan.org>
 
 
 =head1 COPYRIGHT
